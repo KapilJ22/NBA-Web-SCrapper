@@ -5,5 +5,5 @@ https://github.com/vishaalagartha/basketball_reference_scraper, which has done s
 Used their repo and created new functions as per our project needs. The new functions are inside: `team_players.py`.
 
 ## Development
-1. pip install basketball-reference-scraper.
+1. `pip install basketball-reference-scraper`.
 2. Play with functions inside `team_players.py`.
